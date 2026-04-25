@@ -3,6 +3,7 @@ nova alteração na linha 2
 nova linha
 novo teste
 uma nova linha
+nova alteração que dará conflito no remoto
 versao 1.0
 alteração feita pelo GitHub
 nova alteração na linha 8
