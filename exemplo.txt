@@ -3,3 +3,4 @@ nova linha
 novo teste
 uma nova linha
 versao 1.0
+alteração feita pelo GitHub
