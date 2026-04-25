@@ -1,4 +1,5 @@
 nova
+nova alteração na linha 2
 nova linha
 novo teste
 uma nova linha
