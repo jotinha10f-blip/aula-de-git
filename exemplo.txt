@@ -3,6 +3,7 @@ nova alteração na linha 2
 nova linha
 novo teste
 uma nova linha
+alteração feita local, talvez dê b.o
 versao 1.0
 alteração feita pelo GitHub
 nova alteração na linha 8
