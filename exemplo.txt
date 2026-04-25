@@ -4,3 +4,4 @@ novo teste
 uma nova linha
 versao 1.0
 alteração feita pelo GitHub
+nova alteração na linha 7
