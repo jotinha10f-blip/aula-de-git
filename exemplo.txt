@@ -2,3 +2,4 @@ nova
 nova linha
 novo teste
 uma nova linha
+versao 1.0
